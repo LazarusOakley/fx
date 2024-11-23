@@ -1,0 +1,18 @@
+[
+{"name": "FV1/DualDrive","pot0": "Lo-Drv","pot1": "Hi-Drv","pot2": "Xover","url": "https://github.com/koswir/FV1-programs-by-koswir/blob/main/kw-2band-destructor.spn"}
+,
+{"name": "FV1/4-Filters","pot0": "2p LPHP","pot1": "4p LPHP","pot2": "Reso","url": "https://github.com/koswir/FV1-programs-by-koswir/blob/main/kw-2band-destructor.spn"}
+,
+{"name": "FV1/Chorus","pot0": "Depth","pot1": "Rate","pot2": "HPF","url": "https://github.com/koswir/FV1-programs-by-koswir/blob/main/kw-chorus.spn"}
+,
+{"name": "FV1/Formant","pot0": "Formant","pot1": "Shift","pot2": "Balance","url": "https://github.com/koswir/FV1-programs-by-koswir/blob/main/kw-formant.spn"}
+,
+{"name": "FV1/GltchVb","pot0": "Stutter","pot1": "RevDcy","pot2": "GltchOct","url": "https://github.com/koswir/FV1-programs-by-koswir/blob/main/kw-glthvrb.spn"}
+,
+{"name": "FV1/Punch","pot0": "Punch","pot1": "Shape","pot2": "Makeup","url": "https://github.com/koswir/FV1-programs-by-koswir/blob/main/kw-punch.spn"}
+,
+{"name": "FV1/Reducer","pot0": "SmplRte","pot1": "Filter","pot2": "BitDpth","url": "https://github.com/koswir/FV1-programs-by-koswir/blob/main/kw-reducer.spn"}
+,
+{"name": "FV1/Shimmer","pot0": "Shimmer","pot1": "Decay","pot2": "Filter","url": "https://github.com/koswir/FV1-programs-by-koswir/blob/main/kw-shimmer.spn"}
+]
+
