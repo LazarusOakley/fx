@@ -1,0 +1,16 @@
+[
+{"name":"FV1/DlyTrplCho","pot0":"Time 1","pot1":"Time 2","pot2":"Time 3","url":"https://github.com/mstratman/fv1-programs/blob/master/public/files/dervish/triple/tripple_echo_cascaded_stereo%2Bchorus.spn"}
+,
+{"name":"FV1/Flanger3","pot0":"Speed","pot1":"Depth","pot2":"Feedbck","url":"https://github.com/mstratman/fv1-programs/blob/master/public/files/firesledge/bass-fv1-p0-flanger.spn"}
+,
+{"name":"FV1/Overdrive","pot0":"Gain","pot1":"Volume","pot2":"Hi-Cut","url":"https://github.com/mstratman/fv1-programs/blob/master/public/files/softclipping_overdrive.spn"}
+,
+{"name":"FV1/TremoloShape","pot0":"Shape","pot1":"Depth","pot2":"Speed","url":"https://github.com/mstratman/fv1-programs/blob/master/public/files/tremolo-shapes.spn"}
+,
+{"name":"FV1/SpringVerb","pot0":"Reverb","pot1":"Rate","pot2":"Depth","url":"https://github.com/mstratman/fv1-programs/blob/master/public/files/spring_verb.spn"}
+,
+{"name":"FV1/Phaser2","pot0":"Feedbck","pot1":"Range","pot2":"Speed","url":"https://github.com/mstratman/fv1-programs/blob/master/public/files/slacker-bf/bf_phaser.spn"}
+,
+{"name":"FV1/ReverseRevb","pot0":"Pre-Dly","pot1":"Decay","pot2":"Damping","url":"https://github.com/mstratman/fv1-programs/blob/master/public/files/RevRev.spn"}
+]
+

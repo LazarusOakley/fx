@@ -1,0 +1,16 @@
+[
+{"name": "FV1/BattlingLFOs","pot0": "LFO 1","pot1": "LFO 2","pot2": "LFO 3","url": "https://github.com/mstratman/fv1-programs/blob/master/public/files/spinsemi/battling_lfos.spn"}
+,
+{"name":"FV1/ChoirSaw","pot0":"DlyPtch","pot1":"Feedbck","pot2":"Speed","url":"https://github.com/mstratman/fv1-programs/blob/master/public/files/madbeanpedals/choir-saw.spn"}
+,
+{"name":"FV1/Octave","pot0":"Dry","pot1":"OctDown","pot2":"OctUp","url":"https://github.com/mstratman/fv1-programs/blob/master/public/files/improved_octave_up.spn"}
+,
+{"name":"FV1/Parallax","pot0":"Phs Spd","pot1":"Feedbck","pot2":"Trm Spd","url":"https://github.com/mstratman/fv1-programs/blob/master/public/files/madbeanpedals/parallax.spn"}
+,
+{"name":"FV1/SinGen","pot0":"Coarse","pot1":"Fine","pot2":"Level","url":"https://github.com/mstratman/fv1-programs/blob/master/public/files/spinsemi/singen.spn"}
+,
+{"name":"FV1/Spacedash","pot0":"Intnsty","pot1":"Rate","pot2":"Mix","url":"https://github.com/mstratman/fv1-programs/blob/master/public/files/madbeanpedals/spacedash.spn"}
+,
+{"name":"FV1/Starfield","pot0":"Delay","pot1":"Feedbck","pot2":"Sweep","url":"https://github.com/mstratman/fv1-programs/blob/master/public/files/madbeanpedals/starfield.spn"}
+]
+
